@@ -5,3 +5,5 @@ Also the same logic applies to IMEI(International Mobile Equipment Identity) num
 - [ ] Front-end
 - [ ] Backend
 - [ ] Linking them
+- [ ] Can we dockerize?
+- [ ] Hosting and Deployment
